@@ -1,16 +1,19 @@
 - 👋 Hi, I’m @MadeleineJonassen
 - 🌱 I’m currently learning Computer Science at NTNU, Trondheim
+</br>
 
 
 ## GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MadeleineJonassen&theme=gruvbox&hide_border=false)<br/>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadeleineJonassen&theme=gruvbox&hide_border=false"/>
+</p>
+</br>
 
 ## Languages
-<div>
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadeleineJonassen&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" width="300" height="300"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadeleineJonassen&theme=gruvbox&hide_border=true&exclude=Jupyter%20Notebook" width="300" height="300">
-</div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadeleineJonassen&theme=gruvbox&hide_border=true&exclude=Jupyter%20Notebook" width="320" height="300">
+</p>
 
 ## Contact
 
