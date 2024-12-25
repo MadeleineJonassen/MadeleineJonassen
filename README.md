@@ -1,6 +1,7 @@
 # Hi, I'm Madeleine!
-👩‍💻 A Final-year Student of Computer Science </br>
-👩‍🎓 Studied [Computer Science](https://www.ntnu.edu/studies/bidata/admission) at NTNU, Trondheim
+👩‍💻 Final-year student passionate about technology and coding. </br>
+👩‍🎓 Studied [Computer Science](https://www.ntnu.edu/studies/bidata/admission) at NTNU, Trondheim. </br>
+🌟 Currently exploring new projects and sharpening my skills in software development and creative solutions.
 </br></br>
 
 
