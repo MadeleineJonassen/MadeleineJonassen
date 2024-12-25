@@ -1,20 +1,40 @@
-- 👋 Hi, I’m @MadeleineJonassen
-- 🌱 I’m currently learning Computer Science at NTNU, Trondheim
-</br>
+# Hi, I'm Madeleine!
+👩‍💻 A Final-year Student of Computer Science </br>
+👩‍🎓 Studied [Computer Science](https://www.ntnu.edu/studies/bidata/admission) at NTNU, Trondheim
+</br></br>
 
 
-## GitHub Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadeleineJonassen&theme=gruvbox&hide_border=false"/>
-</p>
-</br>
+## 💻 Tools and Tech
 
-## Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MadeleineJonassen&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&hide_border=true" width="300" height="300"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MadeleineJonassen&theme=gruvbox&hide_border=true&exclude=Jupyter%20Notebook" width="320" height="300">
-</p>
+### Programming Languages
+- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Contact
+### Web Development
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<a href="https://www.linkedin.com/in/madeleine-stenberg-jonassen-b7a702295" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-onvhHUdW1Us%2FYI52e9j4eKI%2FAAAAAAAAE4c%2F6s9wzOpIDYcAo4YmTX1Qg51OlwMFmilFACLcBGAsYHQ%2Fs1600%2FLogo%252BLinkedin.png&f=1&nofb=1&ipt=2f2ab2aab222f462f8f2b3b5826cc1c0676b3d4ccc1a4790fbff815ba4b87c8a&ipo=images" alt="Linked-in Logo" width="95" height="75"/></a>
+### Game Development
+- ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+- ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+- ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+
+### Design and Productivity
+- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+### Version Control
+- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MadeleineJonassen&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MadeleineJonassen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeleineJonassen&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
